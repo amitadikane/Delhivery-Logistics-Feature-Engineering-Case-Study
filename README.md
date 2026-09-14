@@ -41,7 +41,7 @@ Delhivery’s raw data contains multiple scan-level rows per package (similar to
 
 ## 📓 Notebook & Full Report
 
-- **Jupyter Notebook**: [./notebooks/](./notebooks/)
+- **Jupyter Notebook**: [./notebooks/](./notebooks/delhivery_feature_engineering.ipynb)
 - **PDF Report**: [./reports/](./reports/)
 
 ---
